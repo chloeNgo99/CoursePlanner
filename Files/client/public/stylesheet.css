@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+.input-form{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 680px;
+    height: 200px;
+}
+
+.submit-btn{
+    border-radius: 10px;
+    width: 85px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+}
+
+.title{
+    margin: auto;
+    text-align: center;
+    font-weight: 600;
+    font-size: 48px;
+    margin-top: 30px;
+    font-family: Abril Fatface;
+    letter-spacing: -2px;
+}
+
+.delete-btn{
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 75px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
